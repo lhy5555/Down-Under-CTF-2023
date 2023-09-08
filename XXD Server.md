@@ -40,6 +40,7 @@ Command: `docker build -t xxdserver .
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/50d186db-c320-468b-a49c-6c7605ac1594)
 
 This error arises because there is no flag file in the given files. Hence we will create a fake flag (since we are deploying in our own environment) to solve this issue.
+
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/c28c6e2f-53a9-423a-9614-97745990db57)
 
 We will now re-run the docker build command.
@@ -49,6 +50,7 @@ No more error:)
 
 Finally we will deploy the docker container with the image
 Command: `docker run -it --rm xxdserver`
+
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/16c03293-dfee-4d7c-bc95-c8223e018fe8)
 
 
