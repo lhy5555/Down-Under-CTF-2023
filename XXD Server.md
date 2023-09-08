@@ -24,6 +24,8 @@ In the given .htaccess file, we see that other than PHP files, it will be forced
 
 # Step 2: The Exploit
 ***Crafting the payload***
+
+
 ![image](./image/image%204.png)
 Save this file as shell.php
 
