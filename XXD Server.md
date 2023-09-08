@@ -101,20 +101,22 @@ As $_GET\['c'] will exceeds 16 characters, we will fill up unnecessary gap with 
 ![image](./image/image%2019.png)
 
 # Step 8: Test
-It seems to work now. This error is the to the missing `c` parameter from the URL. To fix that, we will run a test command with the `c` parameter in the URL.
 ![image](./image/image%2020.png)
 
-It works! Now lets try to find the location of the flag and display it.
+
+It seems to work now. This error is the to the missing `c` parameter from the URL. To fix that, we will run a test command with the `c` parameter in the URL.
 ![image](./image/image%2021.png)
 
 
+It works! Now lets try to find the location of the flag and display it.
 ![image](./image/image%2022.png)
+
+
+![image](./image/image%2023.png)
 
 It works! So we will now upload this shell.php to the main server.
 
 # Step 9: Upload shell.php to the main server
-
-![image](./image/image%2023.png)
 
 ![image](./image/image%2024.png)
 
@@ -123,6 +125,8 @@ It works! So we will now upload this shell.php to the main server.
 ![image](./image/image%2026.png)
 
 ![image](./image/image%2027.png)
+
+![image](./image/image%2028.png)
 
 
 Flag: `DUCTF{00000000__7368_656c_6c64_5f77_6974_685f_7878_6421__shelld_with_xxd!}`
