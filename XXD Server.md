@@ -13,7 +13,7 @@ https://web-xxd-server-2680de9c070f.2023.ductf.dev
 
 ***The Home Page***
 
-![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/e4fbc4f1-1740-4aaf-8b24-5d95d2b85535)
+![image](./image/image 1)
 
 Upon uploading a random file, the `here` redirects to ./uploads/(RANDOM HEX)/(your file name)
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/6e5e104b-3b2d-4cba-9a10-7f8f318691d0)
