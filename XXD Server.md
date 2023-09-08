@@ -92,6 +92,9 @@ Based on this code, it is noticed that it will convert everything in the file to
 
 However, do take note that it will split every 16 characters to a new line, hence we need to ensure that it will not read the hex dump contents.
 As $_GET\['c'] will exceeds 16 characters, we will fill up unnecessary gap with spaces to make up the 16 characters so that the hex dump contents will be commented up.
+
+
+
 ![image](./image/image%2018.png)
 
 # Step 7: Upload the modified shell.php
