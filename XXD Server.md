@@ -26,7 +26,8 @@ In the given .htaccess file, we see that other than PHP files, it will be forced
 ***Crafting the payload***
 
 
-![image](./image/image%204.png)
+![image](./image/image%204.png) 
+
 
 
 Save this file as shell.php
