@@ -36,7 +36,9 @@ ERROR! Hence we will deploy the DockerFile to find out the issue
 
 # Step 4: Deploy Docker (FOR DEBUGGING THE ERROR)
 Command: `docker build -t xxdserver .
+
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/50d186db-c320-468b-a49c-6c7605ac1594)
+
 This error arises because there is no flag file in the given files. Hence we will create a fake flag (since we are deploying in our own environment) to solve this issue.
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/c28c6e2f-53a9-423a-9614-97745990db57)
 
@@ -61,7 +63,7 @@ We will now debug the file. Opening a new terminal and run the command `docker c
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/f7a7ab35-1e19-4631-ba17-78decf282380)
 
 Then we will open a shell in this container
-`docker exec -it [container ID] /bin/bash
+`docker exec -it \[container ID] /bin/bash
 
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/996f7cf7-3003-4beb-aab2-834aa6695e78)
 
