@@ -92,7 +92,7 @@ As $_GET\['c'] will exceeds 16 characters, we will fill up unnecessary gap with 
 # Step 7: Upload the modified shell.php
 ![image](./image/image%2020.png)
 
-#Step 8: Test
+# Step 8: Test
 It seems to work now. This error is the to the missing `c` parameter from the URL. To fix that, we will run a test command with the `c` parameter in the URL.
 ![image](./image/image%2021.png)
 
@@ -104,7 +104,7 @@ It works! Now lets try to find the location of the flag and display it.
 
 It works! So we will now upload this shell.php to the main server.
 
-# Step 8: Upload shell.php to the main server
+# Step 9: Upload shell.php to the main server
 
 ![image](./image/image%2024.png)
 
