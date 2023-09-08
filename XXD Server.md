@@ -51,7 +51,7 @@ This error arises because there is no flag file in the given files. Hence we wil
 
 
 We will now re-run the docker build command.
-![image](./image/image%208.png)
+![image](./image/image%20E8.png)
 
 No more error:)
 
