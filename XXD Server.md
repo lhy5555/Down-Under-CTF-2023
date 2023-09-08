@@ -41,7 +41,9 @@ Command: `docker build -t xxdserver .
 
 This error arises because there is no flag file in the given files. Hence we will create a fake flag (since we are deploying in our own environment) to solve this issue.
 
+
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/c28c6e2f-53a9-423a-9614-97745990db57)
+
 
 We will now re-run the docker build command.
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/5fb37f65-deff-4f75-8bac-dcd7d2e36d7a)
