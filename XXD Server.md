@@ -6,7 +6,7 @@ Author: hashkitten
 https://web-xxd-server-2680de9c070f.2023.ductf.dev
 
 ***Given Files***
-[xxd_server (1).zip](https://github.com/lhy5555/Down-Under-CTF-2023/blob/main/xxd_server%20(1).zip)
+[xxd_server (1).zip](./blob/main/xxd_server%20(1).zip)
 
 
 # Step 1: ANALYSIS
