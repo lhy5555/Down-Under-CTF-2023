@@ -100,3 +100,21 @@ It works! Now lets try to find the location of the flag and display it.
 ![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/8ffce87c-523a-4012-a813-043826d280a4)
 
 
+![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/6b8d80ab-0d33-4bbd-878d-4737e4e41889)
+
+It works! So we will now upload this shell.php to the main server.
+
+# Step 8: Upload shell.php to the main server
+
+![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/4f3b9465-1da7-4cf5-8d4a-71c2c5faad67)
+
+![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/cf53b584-8b49-4ba5-a14e-e318d144d4a4)
+
+![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/5cbfec64-8933-4799-b431-7daa3a8572c0)
+
+![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/855cb39f-20cb-41d3-82f7-44c47b624522)
+
+![image](https://github.com/lhy5555/Down-Under-CTF-2023/assets/84282421/ddb622ba-c296-43c1-bdb1-6b313cbf11a3)
+
+
+Flag: `DUCTF{00000000__7368_656c_6c64_5f77_6974_685f_7878_6421__shelld_with_xxd!}`
