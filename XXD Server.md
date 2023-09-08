@@ -27,6 +27,8 @@ In the given .htaccess file, we see that other than PHP files, it will be forced
 
 
 ![image](./image/image%204.png)
+
+
 Save this file as shell.php
 
 Then upload it to the homepage and execute it.
